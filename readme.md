@@ -1,5 +1,5 @@
 <h1> Max Assis </h1>
-<h1>Oi 👋, Eu sou Desenvolvedor Web FrontEnd</h1>
+<h1>Oi 👋, Eu sou Desenvolvedor Web FullStack</h1>
 
 [![Max Assis github stats](https://github-readme-stats.vercel.app/api?username=maxassis)](https://github.com/anuraghazra/maxassis)
 
