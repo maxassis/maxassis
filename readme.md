@@ -24,7 +24,7 @@
 
 
 
-<h3> contato </h3>
+<h3> Contato </h3>
 <a target="_blank" href="https://www.linkedin.com/in/max-assis/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
