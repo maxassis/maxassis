@@ -29,9 +29,9 @@
 ---
 
 ## 📈 Estatísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxassis&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maxassis&show_icons=true&theme=light" alt="Estatísticas do GitHub">
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ## 📫 Contato
 
 📧 **Email:** [max.assis@outlook.com](mailto:max.assis@)  
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/max-assis/)
+💼 **LinkedIn:** [linkedin/maxassis](https://www.linkedin.com/in/max-assis/)
 
 ---
 
