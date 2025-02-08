@@ -38,7 +38,7 @@
 
 ## 📫 Contato
 
-📧 **Email:** [max.assis@outlook.com](mailto:max.assis@)  
+📧 **Email:** [max.assis@outlook.com](mailto:max.assis@outlook.com)  
 💼 **LinkedIn:** [linkedin/maxassis](https://www.linkedin.com/in/max-assis/)
 
 ---
